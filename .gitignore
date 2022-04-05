@@ -1,0 +1,8 @@
+Lib/*
+Scripts/*
+Include/*
+*.cfg
+.*
+etc/*
+share/*
+Lectures/*
